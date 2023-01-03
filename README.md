@@ -48,12 +48,14 @@ entre na pasta APP ainda no terminal e execute `yarn start`.
 Caso queira rodar a API fora do do ambiente de desenvolvimento basta executar o comendo `yarn build` e
 após isso `yarn start` no terminal na pasta da API
   
- <div id='tecnologias'> 
- ### 🛠 Tecnologias
+<div id='tecnologias'> 
+	 
+ ###🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
   
-** Front-End **
+**Front-End**
+	
 - [Expo](https://expo.io/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
@@ -62,7 +64,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Styled-Components](https://styled-components.com/)
 - [Intl](https://pub.dev/packages/intl/)
  
-** Back-End **
+**Back-End**
   
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/) 
