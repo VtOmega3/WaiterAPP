@@ -50,11 +50,11 @@ após isso `yarn start` no terminal na pasta da API
   
 <div id='tecnologias'> 
 	 
- ###🛠 Tecnologias
+ ##🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
   
-**Front-End**
+* **Front-End**
 	
 - [Expo](https://expo.io/)
 - [React](https://pt-br.reactjs.org/)
@@ -64,7 +64,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Styled-Components](https://styled-components.com/)
 - [Intl](https://pub.dev/packages/intl/)
  
-**Back-End**
+* **Back-End**
   
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/) 
@@ -74,7 +74,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Socket.io](https://socket.io/) 
   
    
-<div id ='#aprendizados'>
+<div id ='aprendizados'>
+	
   ## Aprendizados
   
 No projeto aprendi como consumir API através do Axios, a criação de rotas através do `node`, `express` e `multer`,
